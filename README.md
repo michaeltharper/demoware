@@ -3,4 +3,4 @@
 
 Tryouts of commercial software, open-source frameworks, APIs, etc.
 
-Please visit [harperdev.com/code](http://harperdev.com/code) for more examples.
+Please visit [pdx9.com/code](http://pdx9.com/code) for more examples.
